@@ -75,6 +75,13 @@ Username: admin
 Password: admin
 ```
 
+## 📸 Screenshots
+
+<img width="1906" height="1006" alt="Screenshot 2026-04-24 074506" src="https://github.com/user-attachments/assets/ba62bf5d-a242-4b21-b213-540a72da14e2" />
+<img width="1919" height="1008" alt="Screenshot 2026-04-24 074703" src="https://github.com/user-attachments/assets/5fa6f112-8a53-49c1-8b52-72fdd374d27a" />
+<img width="1919" height="1067" alt="Screenshot 2026-04-24 074813" src="https://github.com/user-attachments/assets/a069ad06-c6c9-4db8-85c4-ac4703801b86" />
+<img width="1883" height="1028" alt="Screenshot 2026-04-24 074831" src="https://github.com/user-attachments/assets/62ddf2e3-285a-4cb4-bdf7-2bdcc5ee2eed" />
+
 ---
 
 ## ⚠️ Disclaimer
